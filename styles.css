@@ -1,0 +1,21 @@
+.fcbcolor
+{
+    background-color: #004D98;
+}
+.whitefont
+{
+    color: whitesmoke;
+}
+.whitefont:hover
+{
+    color: gold;
+}
+.bigpic
+{
+    width: 500px;
+    border-radius: 10% 0 10%;
+}
+.center
+{
+    text-align: center;
+}
