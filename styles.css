@@ -19,3 +19,7 @@
 {
     text-align: center;
 }
+.icon:hover
+{
+    color: goldenrod;
+}
